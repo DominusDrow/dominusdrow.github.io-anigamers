@@ -1,0 +1,37 @@
+
+body{
+	background:url(../img/tx7.jpg);
+}
+
+
+h2,h3{ 
+	color:#300729; 
+}
+
+
+h2{
+	margin:3;
+	padding:3;
+}
+
+
+ul ul a{
+	color:#1F6700;
+}
+
+
+/* solo se pueden agregar una vez*/
+#t{ 
+	font-size:25px;
+}
+
+/*se peuden agragar cuantas veces se requiera*/
+.f{
+	color:#922B81;
+}
+
+
+a[href="https://animeflv.net/anime/1605/kiseijuu-sei-no-kakuritsu"]
+{
+	color:#013B71;
+}

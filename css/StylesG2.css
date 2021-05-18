@@ -1,0 +1,74 @@
+#t{
+	
+	width:35%		
+	height:auto;
+
+	margin:35px 20px;
+
+	font-size:270%;
+}
+
+
+.p123{
+	background:rgba(220,248,230,0.2);
+	width:70%;
+}
+
+
+
+a{
+
+	text-decoration:none;
+}
+
+
+.p123{
+
+	position:relative;
+}
+
+
+
+.imgs{
+
+	width:324px;
+	height:auto;
+
+	position:absolute; /* tambien exite relative, pero no es muy recomendada*/
+	top:0px;
+	bottom:0px;
+	right:0;
+	left:975px;
+
+}
+
+
+body{
+	background:url(../img/tx24.jpg);
+}
+
+
+h2,h3{ 
+	color:#300729; 
+}
+
+
+h2{
+	margin:3;
+	padding:3;
+}
+
+
+
+
+
+
+.f{
+	color:#922B81;
+}
+
+
+a[href="https://animeflv.net/anime/1605/kiseijuu-sei-no-kakuritsu"]
+{
+	color:#013B71;
+}
